@@ -41,10 +41,9 @@ The database manages player profiles, match statistics, clans, game modes, maps,
 ```
 battleground-database/
 │
-├── DDL.txt
-├── insertoperations.txt
-├── Queries.txt
-├── ERD and Relational Schema Final.pdf
+├── schema.sql
+├── insert.sql
+├── queries.sql
 └── README.md
 ```
 
