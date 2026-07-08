@@ -115,19 +115,19 @@ The project includes several analytical SQL queries, such as:
 2. Execute the table creation script.
 
 ```
-DDL.txt
+schema.sql
 ```
 
 3. Populate the database using
 
 ```
-insertoperations.txt
+insert.sql
 ```
 
 4. Execute the sample SQL queries from
 
 ```
-Queries.txt
+queries.sql
 ```
 
 5. Refer to the ER diagram and relational schema for database structure.
@@ -138,8 +138,6 @@ Queries.txt
 
 The repository includes:
 
-- Entity Relationship Diagram (ERD)
-- Relational Schema
 - DDL Scripts
 - Sample Data
 - SQL Query Collection
